@@ -6,3 +6,4 @@ sway
 lazy-git
 wiremix
 bletui
+bookorat
