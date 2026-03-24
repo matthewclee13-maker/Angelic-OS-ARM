@@ -16,7 +16,6 @@ yazi,
 wiremix,
 bluetui,
 impala,
-bookorat,
 lynx browser,
 
 keybinds:
