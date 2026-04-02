@@ -6,8 +6,7 @@ A text based Arch Linux distro made for the raspberry Pi 5. Angelic-OS has almos
 
 comes pre-installed with the following applications:
 
-TUIOS,
-sway,
+hyprland,
 neovim,
 nano,
 waybar,
